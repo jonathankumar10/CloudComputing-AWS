@@ -2,7 +2,7 @@
 
 This project was part of UTA 2205-CSE-6331-004-ADV TOPICS IN DATABASE SYSTEMS.
 
-This project was implemented to test and work on Azure Cloud.
+This project was implemented to test and work on AWS Cloud.
 
 We used HTML, Bootstrap and Flask for the implementation of the project.
 For this Flask framework was used. Also for the frontend part of it HTML and Bootstrap was used to make the webapp simple and asthetically pleasing. Forms were implemented in the front end for user input.
